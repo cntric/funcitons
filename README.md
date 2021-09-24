@@ -1,3 +1,3 @@
 # funcitons
 
-A funci package for randomly generating functions.
+A funci node package for randomly generating functions.
