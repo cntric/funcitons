@@ -1,0 +1,1 @@
+# cogint-random-func
