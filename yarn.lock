@@ -1850,6 +1850,16 @@ detect-newline@^3.0.0:
   resolved "https://registry.npmjs.org/detect-newline/-/detect-newline-3.1.0.tgz"
   integrity sha512-TLz+x/vEXm/Y7P7wn1EJFNLxYpUD4TgMosxY6fAVJUnJMbupHBOncxyWUG9OpTaH9EBD7uFI5LfEgmMOc54DsA==
 
+"determinismus@https://github.com/concentricio/determinismus":
+  version "0.1.0"
+  resolved "https://github.com/concentricio/determinismus#6f71ffa5a38c34c63d289e7d4dd2e3910474c2de"
+  dependencies:
+    "@types/node" "^16.9.1"
+    "@types/shortid" "^0.0.29"
+    http-server "^13.0.2"
+    shortid "^2.2.16"
+    typedoc "^0.22.4"
+
 diff-sequences@^27.0.6:
   version "27.0.6"
   resolved "https://registry.npmjs.org/diff-sequences/-/diff-sequences-27.0.6.tgz"
@@ -3830,6 +3840,16 @@ tr46@^2.1.0:
   integrity sha512-15Ih7phfcdP5YxqiB+iDtLoaTz4Nd35+IiAv0kQ5FNKHzXgdWqPoTIqEDDJmXceQt4JZk6lVPT8lnDlPpGDppw==
   dependencies:
     punycode "^2.1.1"
+
+"tulleries@https://github.com/concentric-dev-git/tulleries":
+  version "0.1.0"
+  resolved "https://github.com/concentric-dev-git/tulleries#b6e136d6126557ded27ed7860263332ffc59abaa"
+  dependencies:
+    "@types/node" "^16.9.1"
+    "@types/shortid" "^0.0.29"
+    http-server "^13.0.2"
+    shortid "^2.2.16"
+    typedoc "^0.22.4"
 
 type-check@~0.3.2:
   version "0.3.2"
