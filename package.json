@@ -1,7 +1,16 @@
 {
   "name": "funcitons",
-  "version": "0.1.0",
-  "description": "A funci node package for randomly generating functions. (Do-doo Do-doo-do",
+  "version": "0.0.1",
+  "description": "A funci package for writing funci tests. (Do-doo Do-doo-do)",
+  "keywords": [
+    "function",
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cntric/functions"
+  },
+  "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/mjs/index.js",
   "exports": {
@@ -16,19 +25,17 @@
     "build": "rm -fr dist/* && tsc -p tsconfig.json && tsc -p tsconfig-cjs.json && ./tsconfig-fixup",
     "docs": "rm -fr docs/* && npx typedoc src --categorizeByGroup false && http-server ./docs"
   },
-  "keywords": [],
   "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.15.5",
     "@babel/preset-env": "^7.15.6",
     "@babel/preset-typescript": "^7.15.0",
     "@types/jest": "^27.0.1",
     "babel-jest": "^27.1.1",
-    "determinismus": "https://github.com/concentricio/determinismus",
+    "determinismus": "^0.0.1",
     "jest": "^27.1.1",
     "nodemon": "^2.0.12",
-    "tulleries": "https://github.com/concentric-dev-git/tulleries",
+    "tulleries": "^0.0.5",
     "typescript": "^4.4.2"
   },
   "dependencies": {

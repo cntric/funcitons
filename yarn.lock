@@ -1850,9 +1850,10 @@ detect-newline@^3.0.0:
   resolved "https://registry.npmjs.org/detect-newline/-/detect-newline-3.1.0.tgz"
   integrity sha512-TLz+x/vEXm/Y7P7wn1EJFNLxYpUD4TgMosxY6fAVJUnJMbupHBOncxyWUG9OpTaH9EBD7uFI5LfEgmMOc54DsA==
 
-"determinismus@https://github.com/concentricio/determinismus":
-  version "0.1.0"
-  resolved "https://github.com/concentricio/determinismus#6f71ffa5a38c34c63d289e7d4dd2e3910474c2de"
+determinismus@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/determinismus/-/determinismus-0.0.1.tgz#64c8dddf9234e58d4651a122d08cd774b7991773"
+  integrity sha512-hic+8LK8bBrZqzV9l2SeiW9qkopXoBkLrL6w+QyEkOCHK/Ma3IoIdjxLuk+Ee30KdiPMGzPBL94cY1PXm/k4UA==
   dependencies:
     "@types/node" "^16.9.1"
     "@types/shortid" "^0.0.29"
@@ -3841,9 +3842,10 @@ tr46@^2.1.0:
   dependencies:
     punycode "^2.1.1"
 
-"tulleries@https://github.com/concentric-dev-git/tulleries":
-  version "0.1.0"
-  resolved "https://github.com/concentric-dev-git/tulleries#b6e136d6126557ded27ed7860263332ffc59abaa"
+tulleries@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/tulleries/-/tulleries-0.0.5.tgz#eab148476114853d6b859801424d84fae48d6387"
+  integrity sha512-fU5cohn9Bgipl/qMmH03DVmyLHxX9YEha3oDJFEkd6VajH+Bhc4lSBG1YAOgc4XMWlBe3DvThSXt+nVGC1iqJQ==
   dependencies:
     "@types/node" "^16.9.1"
     "@types/shortid" "^0.0.29"
